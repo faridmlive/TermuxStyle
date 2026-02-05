@@ -18,9 +18,9 @@
 [![Termux](https://img.shields.io/badge/Platform-Termux-green.svg)](https://termux.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-3.0-red.svg)](https://github.com/faridmlive/TermuxStyle)
-[![GitHub](https://img.shields.io/badge/GitHub-W8TermuxStylePro-blue.svg)](https://github.com/faridmlive/TermuxStyle)
+[![GitHub](https://img.shields.io/badge/GitHub-TermuxStyle-blue.svg)](https://github.com/faridmlive/TermuxStyle)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=W8SOJIB%2FW8TermuxStylePro&label=Visitors&countColor=%23263759&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=faridmlive%TermuxStyle&label=Visitors&countColor=%23263759&style=flat)
 ![GitHub Stars](https://img.shields.io/github/stars/W8SOJIB/W8TermuxStylePro?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/W8SOJIB/W8TermuxStylePro?style=social)
 ![GitHub Watchers](https://img.shields.io/github/watchers/W8SOJIB/W8TermuxStylePro?style=social)
