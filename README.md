@@ -88,7 +88,7 @@
 ╠═══════════════════════════════════════════════════════════════════════╣
 ┌─[SYSTEM INFO]
 │
-├──[○] Operator    : W8SOJIB
+├──[○] Operator    : Farid
 ├──[○] User        : u0_a404
 ├──[○] Hostname    : localhost
 ├──[○] Platform    : Termux (Android)
@@ -97,7 +97,7 @@
    » The quieter you become, the more you can hear...
 ╚═══════════════════════════════════════════════════════════════════════╝
 
-╭─[W8SOJIB@MATRIX]─[~]
+╭─[FARID@MAHAMUD]─[~]
 ╰─➤ 
 ```
 
